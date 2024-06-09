@@ -36,8 +36,8 @@ function MakeBall() {
             random(container.offsetTop, containerHeight - width),
             width,
             width,
-            random(1, 5),
-            random(1, 5),
+            random(1, 6),
+            random(1, 6),
             rgb
         )
         BallsArray.push(newBall)
