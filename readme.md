@@ -1,9 +1,3 @@
-# Ball Collision
-## leapfrog js assignment 
-
-### Ball collision using Dom
-[Demo link](https://bhuwanpp.github.io/Ballcollison/)
-
-### Ball collision using Canvas -> check out other branch
-
-[Demo Link Canvas](https://bhuwanpp.github.io/Canvasballcollison/)
+## Ball collision using canvas 
+##### when click the canvas it create more balls
+[Demo Link](https://bhuwanpp.github.io/Canvasballcollison/)
